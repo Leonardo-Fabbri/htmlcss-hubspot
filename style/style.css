@@ -244,6 +244,7 @@ section > ul {
 .marketing-float {
   background-color: white;
   margin-right: 60px;
+  margin-left: 5px;
 }
 .sales-float {
   background-color: white;
@@ -389,10 +390,10 @@ h2 > span {
   text-align: center;
   margin-top: 20px;
 }
-.seconda > i {
-  font-size: 50px;
-  margin-left: 85px;
-  margin-top: 20px;
+.seconda  i {
+ font-size: 50px;
+ margin-left: 85px;
+ margin-top: 20px;
 }
 .seconda  h2 {
   margin-left: 85px;
@@ -402,10 +403,10 @@ h2 > span {
   text-align: center;
   margin-top: 20px;
 }
-.terza  > i {
-  font-size: 50px;
-  margin-left: 85px;
-  margin-top: 20px;
+.terza  i {
+ font-size: 50px;
+ margin-left: 85px;
+ margin-top: 20px;
 }
 .terza  h2 {
   margin-left: 85px;
@@ -415,10 +416,10 @@ h2 > span {
   text-align: center;
   margin-top: 20px;
 }
-.quarta > i {
-  font-size: 50px;
-  margin-left: 85px;
-  margin-top: 20px;
+.quarta  i {
+ font-size: 50px;
+ margin-left: 85px;
+ margin-top: 20px;
 }
 .quarta   h2 {
   margin-left: 85px;
@@ -428,10 +429,10 @@ h2 > span {
   text-align: center;
   margin-top: 20px;
 }
-.quinta > i {
-  font-size: 50px;
-  margin-left: 85px;
-  margin-top: 20px;
+.quinta  i {
+ font-size: 50px;
+ margin-left: 85px;
+ margin-top: 20px;
 }
 .quinta   h2 {
   margin-left: 85px;
@@ -441,10 +442,10 @@ h2 > span {
   text-align: center;
   margin-top: 20px;
 }
-.sesta > i {
-  font-size: 50px;
-  margin-left: 85px;
-  margin-top: 20px;
+.sesta  i {
+ font-size: 50px;
+ margin-left: 85px;
+ margin-top: 20px;
 }
 .sesta   h2 {
   margin-left: 85px;
@@ -454,10 +455,10 @@ h2 > span {
   text-align: center;
   margin-top: 20px;
 }
-.settima > i {
-  font-size: 50px;
-  margin-left: 85px;
-  margin-top: 20px;
+.settima  i {
+ font-size: 50px;
+ margin-left: 85px;
+ margin-top: 20px;
 }
 .settima  h2 {
   margin-left: 85px;
@@ -467,10 +468,10 @@ h2 > span {
   text-align: center;
   margin-top: 20px;
 }
-.ottava  > i {
-  font-size: 50px;
-  margin-left: 85px;
-  margin-top: 20px;
+.ottava > i {
+ font-size: 50px;
+ margin-left: 85px;
+ margin-top: 20px;
 }
 .ottava   h2 {
   margin-left: 85px;
@@ -582,6 +583,7 @@ ul > .li-foot {
    margin-top: 40px;
   font-size: 15px;
 }
+
 
 .foot_cont h3 {
   margin-bottom: 20px;
