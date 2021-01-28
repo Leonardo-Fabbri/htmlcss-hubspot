@@ -13,14 +13,20 @@ body {
    background-color: rgb(204, 255, 255);
  }
 
-.menu-sopra {
-  width: 70%;
+.background-menu {
   height: 7vh;
-  margin-left: 240px;
-  }
+  background-color: rgb(204, 255, 255);
+  padding-left: 240px;
+  margin-bottom: 50px;
+  position: fixed;
+}
+.background-menu {
+  width: 100%;
+  height: 7vh;
+  position: fixed;
+}
 
-
-  .menu::after {
+.menu::after {
   content: "" ;
   display: table;
   clear: both;
@@ -82,8 +88,8 @@ ul > li {
 .sfondo-bianco {
   background-color: white;
   width: 100%;
-  height:10vh;
-  position: fixed;
+  height: 9vh;
+  margin-top: 7vh;
 }
 .menu-sotto {
   width: 70%;
