@@ -57,11 +57,11 @@ ul > li {
   width: 70px;
   height: 40px;
   border-radius: 4px;
-  border: 2px solid orange;
+  border: 2px solid rgb(255, 51, 0);
   background-color: white;
   float: left;
   margin-top: 5px;
-  color: orange;
+  color: rgb(255, 51, 0);
   text-align: center;
   padding-top: 8px;
 }
@@ -69,8 +69,8 @@ ul > li {
   width: 140px;
   height: 40px;
   border-radius: 4px;
-  border: 2px solid orange;
-  background-color: orange;
+  border: 2px solid  rgb(255, 51, 0) ;
+  background-color: rgb(255, 51, 0);
   float: left;
   margin-top: 5px;
   margin-right: 50px;
@@ -121,7 +121,7 @@ h1 {
   height: 60px;
   padding: 20px;
   border-radius: 4px;
-  background-color: orange;
+  background-color:  rgb(255, 51, 0);
   margin-top: 30px;
   color: white;
   text-align: center;
@@ -174,11 +174,11 @@ main::after {
   position: absolute;
   width: 100px;
   height: 35px;
-  background-color: orange;
+  background-color: rgb(255, 51, 0);
   right: 90px;
   bottom: 40px;
   border-radius: 4px;
-  border: 2px solid orange;
+  border: 2px solid  rgb(255, 51, 0);
   color:white
 }
 .bottone-more > p {
@@ -218,7 +218,7 @@ section > ul {
   margin-left: 25px;
 }
 .check {
-  color: orange;
+  color:  rgb(255, 51, 0);
 }
 
 /* inizio tre blocchi float */
@@ -278,11 +278,11 @@ section > ul {
 .Arancione {
   width: 100px;
   height: 35px;
-  background-color: orange;
+  background-color:  rgb(255, 51, 0);
   right: 90px;
   bottom: 40px;
   border-radius: 4px;
-  border: 2px solid orange;
+  border: 2px solid  rgb(255, 51, 0);
   margin: auto;
   margin-top: 40px;
   color: white;
@@ -526,8 +526,8 @@ span > img {
   width: 140px;
   height: 40px;
   border-radius: 4px;
-  border: 2px solid orange;
-  background-color: orange;
+  border: 2px solid  rgb(255, 51, 0);
+  background-color:  rgb(255, 51, 0);
   margin-top: 5px;
   color: white;
   text-align: center;
